@@ -20,6 +20,8 @@ E por último a API desenvolvida para prover os endpoints:
 $ yarn dev:server
 ```
 
+## Observações
+A api é executada na porta 3333, conforme mostra o log.
 
 ## Rotas da Aplicação Backend
 
